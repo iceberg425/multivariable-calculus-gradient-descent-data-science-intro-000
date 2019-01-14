@@ -21,7 +21,7 @@ We know that moving along the 3-d cost curve above, means changing the $m$ and $
 
 In this lesson, we'll learn about gradient descent in three dimensions, but let's first remember how it worked in two dimensions with just changing one variable of our regression line.  
 
-In two dimensions, when changing just one variable, $m$ or $b$, gradient descent means stepping forwards or backwards along the cost curve and and taking a specific step size.  To determine whether to move forwards or backwards as well as the step size, we imagine standing on this two-dimension curve (shown below) and feeling the slope of our cost curve to tell us how to move.  A step in a direction means a change in one of our regression variables.
+In two dimensions, when changing just one variable, $m$ or $b$, gradient descent means stepping forwards or backwards along the cost curve and taking a specific step size.  To determine whether to move forwards or backwards as well as the step size, we imagine standing on this two-dimension curve (shown below) and feeling the slope of our cost curve to tell us how to move.  A step in a direction means a change in one of our regression variables.
 
 ![](./tangent-lines.png)
 
